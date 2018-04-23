@@ -19,7 +19,9 @@
              $(xml).find('data').each(function(){  
               t.row.add( [
                 $(this).find('name').text(),
-                $(this).find('email').text()                
+                $(this).find('email').text(),
+                $(this).find('city').text(),
+                $(this).find('phone').text()                
               ] ).draw( false );
              });
             }
@@ -34,6 +36,8 @@
         <tr>
             <th>Name</th>
             <th>Email</th>
+            <th>City</th>
+            <th>Phone</th>
         </tr>
     </thead>
 
@@ -41,6 +45,8 @@
         <tr>
             <th>Name</th>
             <th>Email</th>
+            <th>City</th>
+            <th>Phone</th>
         </tr>
     </tfoot>
   </table>

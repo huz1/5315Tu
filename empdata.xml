@@ -3,9 +3,73 @@
     <data>
       <name>James Bond</name>
       <email>222@333.com</email>
+      <city>Seattle</name>
+      <phone>12345678</phone>
     </data>
     <data>
       <name>Brielle Williamson</name>
       <email>111@222.com</email>   
+      <city>New York</city>
+      <phone>123456789</phone>
+    </data>
+    <data>
+      <name>Zhanmo Ni</name>
+      <email>111@333.com</email>   
+      <city>Shanghai</city>
+      <phone>123456787</phone>
+    </data>
+    <data>
+      <name>Li Ye</name>
+      <email>111@444.com</email>   
+      <city>Shanghai</city>
+      <phone>123456786</phone>
+    </data>
+    <data>
+      <name>Tim Zhuang</name>
+      <email>111@555.com</email>   
+      <city>Seattle</city>
+      <phone>123456785</phone>
+    </data>
+    <data>
+      <name>Wesker Wang</name>
+      <email>222@222.com</email>   
+      <city>Shanghai</city>
+      <phone>123456784</phone>
+    </data>
+    <data>
+      <name>Haozhe Wen</name>
+      <email>333@222.com</email>   
+      <city>Houston</city>
+      <phone>123456989</phone>
+    </data>
+    <data>
+      <name>Feifei Sun</name>
+      <email>444@222.com</email>   
+      <city>Shanghai</city>
+      <phone>133456789</phone>
+    </data>
+    <data>
+      <name>Kobe Bryant</name>
+      <email>555@222.com</email>   
+      <city>Los Angelas</city>
+      <phone>123466789</phone>
+    </data>
+    <data>
+      <name>Kaiwei Chen</name>
+      <email>666@222.com</email>   
+      <city>Shanghai</city>
+      <phone>123459789</phone>
+    </data>
+    <data>
+      <name>Nemo Ni</name>
+      <email>777@222.com</email>   
+      <city>Boston</city>
+      <phone>123456206</phone>
+    </data>
+    <data>
+      <name>Yichen Yao</name>
+      <email>888@222.com</email>   
+      <city>Seattle</city>
+      <phone>126896789</phone>
     </data>
   </employees>
